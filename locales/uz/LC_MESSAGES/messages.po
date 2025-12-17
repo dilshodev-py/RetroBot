@@ -1,0 +1,36 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-12-15 10:59+0500\n"
+"PO-Revision-Date: 2025-12-15 11:10+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: app/bot/handlers/main.py:18 app/bot/handlers/main.py:35
+msgid "🥙 Menu"
+msgstr ""
+
+#: app/bot/handlers/main.py:18 app/bot/handlers/main.py:35
+msgid "Cart 🛒"
+msgstr ""
+
+#: app/bot/handlers/main.py:18 app/bot/handlers/main.py:35
+msgid "Today orders"
+msgstr ""
+
+#: app/bot/handlers/main.py:22 app/bot/handlers/main.py:38
+msgid "Hello"
+msgstr "Salom"
+
